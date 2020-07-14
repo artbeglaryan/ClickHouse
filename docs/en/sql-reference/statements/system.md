@@ -36,7 +36,7 @@ toc_title: SYSTEM
 -   [RESTART REPLICA](#query_language-system-restart-replica)
 -   [RESTART REPLICAS](#query_language-system-restart-replicas)
 
-## RELOAD EMBEDDED DICTIONARIES\] {#query_language-system-reload-emdedded-dictionaries}
+## RELOAD EMBEDDED DICTIONARIES {#query_language-system-reload-emdedded-dictionaries}
 
 Reload all [Internal dictionaries](../../sql-reference/dictionaries/internal-dicts.md).
 By default, internal dictionaries are disabled.
